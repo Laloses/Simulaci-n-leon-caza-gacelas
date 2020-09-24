@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>leonG.png</file>
+        <file>leonM.png</file>
+        <file>leonP.png</file>
+        <file>leon.mp3</file>
+        <file>gacelaG.png</file>
+        <file>gacelaM.png</file>
+        <file>gacelaP.png</file>
+        <file>leon.wav</file>
+    </qresource>
+</RCC>
